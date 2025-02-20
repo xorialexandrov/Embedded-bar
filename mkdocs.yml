@@ -49,6 +49,10 @@ nav:
     - Найти бар:
       - Санкт-Петребург: cities/saint_petersburg.md
       - Москва: cities/moscow.md
+      - Казань: cities/kazan.md
+      - Сочи: cities/sochi.md
+      - Белград: cities/belgrade.md
+      - Хельсинки: cities/helsinki.md
   - Правила бара: rules/embedded_bar_rules.md
   - Инструкции:
     - Вступительная речь: instructions/opening_speech.md
