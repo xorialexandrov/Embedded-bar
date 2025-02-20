@@ -44,10 +44,10 @@ theme:
     position: top
 
 nav:
-  - Embedded bar: 
+  - Embedded bar:
     - Embedded bar: index.md
     - Найти бар:
-      - Санкт-Петребург: Saint Petersburg.md
+      - Санкт-Петребург: cities/saint_petersburg.md
   - Правила бара: rules/embedded_bar_rules.md
   - Инструкции:
     - Вступительная речь: instructions/opening_speech.md
